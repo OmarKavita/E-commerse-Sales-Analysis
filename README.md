@@ -1,2 +1,2 @@
 # E-commerse-Sales-Analysis
-This project I have done sales analysis using excel.
+In this project I have done sales analysis using excel.
